@@ -1,0 +1,6 @@
+framework module Pods_NotNetflixTests {
+  umbrella header "Pods-NotNetflixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
