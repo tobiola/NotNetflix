@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-<img src='https://raw.githubusercontent.com/tobiola/NotNetflix/master/Images/notnetflix.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough" width=250><br>
+<img src="https://raw.githubusercontent.com/tobiola/NotNetflix/master/Images/notnetflix.gif" title='Video Walkthrough' width='300px' alt='Video Walkthrough" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
