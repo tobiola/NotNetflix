@@ -32,7 +32,7 @@ Making a good UI was challenging
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-<img src="https://raw.githubusercontent.com/tobiola/NotNetflix/master/Images/notnetflix.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough" width=250><br>
+<img src='https://raw.githubusercontent.com/tobiola/NotNetflix/master/Images/notnetflix.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 ### Notes
 Making a good UI was challenging
